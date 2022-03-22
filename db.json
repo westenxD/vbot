@@ -1,0 +1,11 @@
+{
+  "subscriptions": [
+    {
+      "id": "ttr66g",
+      "url": "https://www.vinted.fr/vetements?size_id[]=207&size_id[]=208&size_id[]=209&catalog[]=5&order=newest_first&currency=EUR&price_to=20&brand_id[]=88",
+      "channelID": "955615933999747072"
+    }
+  ],
+  "last_item_ts_ttr66g": null,
+  "is_first_sync": false
+}
